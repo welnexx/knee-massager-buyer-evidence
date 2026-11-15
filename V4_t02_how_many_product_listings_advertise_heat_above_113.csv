@@ -1,0 +1,5 @@
+Included listing records,Count,Counting rule
+At least one advertised temperature above 113°F,9,Numerical temperature greater than 45°C or 113°F
+Numerical temperatures with maximum at 113°F,1,Recorded maximum equals the comparison point
+Numerical temperature not stated in the captured evidence,13,A heat-level count alone does not supply a temperature
+Total included,23,Supplier or seller records; Amazon records excluded

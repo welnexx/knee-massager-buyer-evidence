@@ -1,0 +1,15 @@
+source,record_id,date,device_type,event,count,url
+CPSC,16-762,2016-07-27,Neck-and-shoulder heated wrap,units_recalled_approximately,10000,https://www.cpsc.gov/Recalls/2016/Emson-Recalls-UComfy-Heat-Wraps
+CPSC,16-762,2016-07-27,Neck-and-shoulder heated wrap,overheating_reports,16,https://www.cpsc.gov/Recalls/2016/Emson-Recalls-UComfy-Heat-Wraps
+CPSC,16-762,2016-07-27,Neck-and-shoulder heated wrap,burn_reports,3,https://www.cpsc.gov/Recalls/2016/Emson-Recalls-UComfy-Heat-Wraps
+CPSC,17-144,2017-05-02,Heated handheld massagers,units_recalled_approximately,400000,https://www.cpsc.gov/th/Recalls/2017/homedics-recalls-massagers-due-to-electric-shock-and-burn-hazards
+CPSC,17-144,2017-05-02,Heated handheld massagers,exposed_wire_spark_smoke_or_flame_reports,140,https://www.cpsc.gov/th/Recalls/2017/homedics-recalls-massagers-due-to-electric-shock-and-burn-hazards
+CPSC,17-144,2017-05-02,Heated handheld massagers,burn_reports,15,https://www.cpsc.gov/th/Recalls/2017/homedics-recalls-massagers-due-to-electric-shock-and-burn-hazards
+CPSC,26-778,2026-09-17,Heated blankets and heating pads together,units_recalled_approximately,195000,https://www.cpsc.gov/Recalls/2026/JKMAX-Recalls-Heated-Blankets-and-Heating-Pads-Due-to-Fire-and-Burn-Hazards
+CPSC,26-778,2026-09-17,Heated blankets and heating pads together,smoke_melting_or_burning_reports,577,https://www.cpsc.gov/Recalls/2026/JKMAX-Recalls-Heated-Blankets-and-Heating-Pads-Due-to-Fire-and-Burn-Hazards
+CPSC,26-778,2026-09-17,Heated blankets and heating pads together,burn_injuries,53,https://www.cpsc.gov/Recalls/2026/JKMAX-Recalls-Heated-Blankets-and-Heating-Pads-Due-to-Fire-and-Burn-Hazards
+FDA_MAUDE,10589696,2020-02-09,Massager with heated attachment; ISA product code,report_coded_third_degree_burn,1,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfmaude/detail.cfm?mdrfoi__id=10589696&pc=ISA
+FDA_MAUDE,24570176,2023-06-23,Weighted heating-and-massage pad; IRT product code,report_coded_third_degree_burn,1,https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfmaude/detail.cfm?mdrfoi__id=24570176&pc=IRT
+STUDY_MAUDE,10.3389/fmedt.2026.1993929-Table1,2016-01-01/2025-12-31,Powered-heating-pad group in a 2026 MAUDE analysis,reports_all_event_types_not_a_burn_count,1751,https://www.frontiersin.org/journals/medical-technology/articles/10.3389/fmedt.2026.1993929/full
+FDA_RECALL_NOTICE,MightyBliss-2022-10-24,2022-10-24,"Electric heating pads, three models",devices_recalled,544212,https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/whele-llc-announces-national-voluntary-recall-mighty-bliss-electric-heating-pad-due-product-safety
+FDA_RECALL_NOTICE,HandySolutions-25607-2026-03-25,2026-03-25,"Neck-and-shoulders heating pad, model 25607",serious_injuries_as_of_2026_03_10_burns_not_stated_separately,4,https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heating-pad-recall-navajo-manufacturing-company-removes-handy-solutions-neck-shoulders-heating-pad
