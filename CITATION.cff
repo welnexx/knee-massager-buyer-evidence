@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite the dataset title, Welnexx, version 1.0.1 and DOI 10.5281/zenodo.24242033."
+type: dataset
+title: "Heated knee massager buyer evidence (Welnexx), v1.0.1"
+version: 1.0.1
+doi: 10.5281/zenodo.24242033
+date-released: 2026-11-15
+authors:
+  - name: Welnexx
+license: CC-BY-4.0
+url: "https://welnexx.com/blogs/guides/heated-knee-massager-index?utm_source=citation&utm_medium=dataset&utm_campaign=dagitim-2026-11"
+abstract: "Dated listing statements, aggregate complaint and review-topic counts, public regulatory records and selected discussion counts. These convenience samples do not establish product performance or population rates."
+keywords:
+  - heated knee massager
+  - listing evidence
+  - buyer information
+  - review coding
+  - public records
