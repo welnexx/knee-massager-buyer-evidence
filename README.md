@@ -34,4 +34,6 @@ Credit Welnexx, *Heated knee massager buyer evidence (Welnexx), v1.0.1*, release
 
 License: Creative Commons Attribution 4.0 International (CC BY 4.0). See `LICENSE.md`. The license covers Welnexx's derived material. Referenced source documents remain subject to their own rights.
 
-Full table and method: https://welnexx.com/blogs/guides/heated-knee-massager-
+Full table and method: https://welnexx.com/blogs/guides/heated-knee-massager-index?utm_source=github&utm_medium=dataset&utm_campaign=dagitim-2026-11
+
+This repository is for tracing a table to its definitions and source method.
